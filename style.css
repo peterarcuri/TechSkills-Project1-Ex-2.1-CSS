@@ -60,14 +60,6 @@ p {
 
 /* Contact Styling (Email, Github, Linkedin) */
 
-#email {
-    text-decoration: none;
-}
-
-#contactPhrase {
-    text-align: left;
-    font-size: 1.5rem;
-}
 
 #linkedinLogo {
     width: 6rem;  
@@ -93,12 +85,6 @@ a  {
 a h3 {
     font-size: 1.3rem;
     color: #010d2d;
-}
-
-/* Project Pics Styling */
-
-.projectPics {
-    box-shadow: 3px -3px #d9d9d9;    
 }
 
 /* Footer Styling */
